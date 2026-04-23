@@ -93,7 +93,7 @@ ai-engineer-portfolio/
 ## Contact
 
 - LinkedIn: [linkedin.com/in/sara-d-1a4795300](https://linkedin.com/in/sara-d-1a4795300)
-- Company: [DocumentLab.ai](https://documentlab.ai)
+- Studio: [DocumentLab.ai](https://documentlab.ai)
 - GitHub: [github.com/SaraDHimdi](https://github.com/SaraDHimdi)
 
 ---
