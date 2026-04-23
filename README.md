@@ -97,5 +97,13 @@ ai-engineer-portfolio/
 - GitHub: [github.com/SaraDHimdi](https://github.com/SaraDHimdi)
 
 ---
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+**The code and all assets of this project are a property of Sara Dhimdi / DocumentLab.ai.**
+
+---
+
 
 *Built with intention. Shipped with evidence.*
