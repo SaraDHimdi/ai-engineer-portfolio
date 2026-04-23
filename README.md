@@ -2,10 +2,10 @@
   <img src="assets/logo.png" alt="DocumentLab.ai" width="80"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/SaraDHimdi/ai-engineer-portfolio?color=1B2A4A&style=flat-square" alt="Last commit"/>
-  <img src="https://img.shields.io/github/repo-size/SaraDHimdi/ai-engineer-portfolio?color=1B2A4A&style=flat-square" alt="Repo size"/>
+  <img src="https://img.shields.io/github/last-commit/SaraDHimdi/ai-engineer-portfolio?color=0c1a2e&style=flat-square" alt="Last commit"/>
+  <img src="https://img.shields.io/github/repo-size/SaraDHimdi/ai-engineer-portfolio?color=0c1a2e&style=flat-square" alt="Repo size"/>
   <img src="https://img.shields.io/github/languages/top/SaraDHimdi/ai-engineer-portfolio?color=C8960C&style=flat-square" alt="Top language"/>
-  <img src="https://img.shields.io/github/issues/SaraDHimdi/ai-engineer-portfolio?color=1B2A4A&style=flat-square" alt="Issues"/>
+  <img src="https://img.shields.io/github/issues/SaraDHimdi/ai-engineer-portfolio?color=0c1a2e&style=flat-square" alt="Issues"/>
 </p>
 <p align="center">
   <em>Built with intention. Shipped with evidence.</em>
