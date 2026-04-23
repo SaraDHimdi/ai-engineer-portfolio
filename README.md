@@ -1,3 +1,4 @@
+![DocumentLab.ai](assets/banner.png)
 # Sara Dhimdi — AI Engineer & Founder of DocumentLab.ai
 Building RAG systems, LLM agents, and production pipelines for legal and financial document intelligence.
 
